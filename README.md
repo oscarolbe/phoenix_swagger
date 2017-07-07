@@ -6,7 +6,6 @@ The `PhoenixSwagger` generates `Swagger` specification for `Phoenix` controllers
 validates the requests.
 
 ## Installation
-
 `PhoenixSwagger` provides `phx.swagger.generate` mix task for the swagger-ui `json`
 file generation that contains swagger specification that describes API of the `phoenix`
 application.
